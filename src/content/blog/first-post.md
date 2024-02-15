@@ -44,4 +44,21 @@ Finally, I was able to gain a vague understanding of Git. Enough to open the doo
 
 ## Finding Wonderland: Science All the Way Down
 
+Sometimes when I tell people I'm a writer, I get responses akin to, "Oh, good for you, I could never be a writer." And my response is, "Sorry, but you already are." Everyone is to some degree.Whether you're composing emails, drafting journal publications about your quantum physics research or writing school excuse notes for your kid, you are writing. Everyone needs some semblance of communication skills to put a subject and a predicate together to present an idea or express a need. 
+
+The same, I've learned, can be true for being a scientist. Jason was telling me about going to a high school career fair with our video intern recently. As students came up to the laboratory's table, our intern emphasized that while she could talk about her skills in media she was expressly, "*not* a scientist." Jason pushed back that, in some ways, she was absolutely a scientist. She gathers raw data (footage), examines it, makes assumptions based on the data (video storyboards), tests the hypothesis (producing a video and gathering feedback), further refines the output and then shares it.
+
+I can't speak for anyone else, but when I started to look at my daily world through the lens of "sciencing," I started to see patterns. And, for perhaps the first time in my life, I started to see a need for process, consistency, and automation.
+
+In this new POV, I found: 
+- Many of the repeating tasks I'm doing each week, or even daily, should be automated
+- When working shoulder-to-shoulder with people who hold the same or similar job responsibilities, we should have an agreed-upon process so our outputs structure is predictable and accessible
+- By doing the two things above, we can more easily gain buy-in and traction from the folks who matter, whether that's leadership, the general public, and/or funding sources. They know what they're looking for, where they'll find it, and what the message is — a purist journalist's dream. 
+- Everything we produce, especially in an environment that touts the importance of "big science" should be accessible and open to continue the momentum of consistent improvement
+**And, perhaps my favorite part**
+- When we automate, template, and, yes, even *reify* these concepts, we create time and space for creativity. And this is where the ~~magic~~ science happens. 
+
+And so we find ~~Alice~~ myself still wandering through Wonderland, more comfortably now. There are still surprising and, at times, frustrating new creatures around every corner. Cheshire cats present new widgets and development terms to learn; Tea parties celebrating half birthdays that suck time from where I need it most; And games of croquet where I can't get the ball through the wicket to save my life. 
+
+But I wouldn't want to be anywhere else. I must be a "scientist." Or I wouldn't have come here.
 
