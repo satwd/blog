@@ -1,5 +1,5 @@
 ---
-title: 'We're all "scientists" here'
+title: "We're all \"scientists\" here"
 description: 'In which our writer falls down the science rabbit hole'
 pubDate: 'Feb 16 2024'
 heroImage: '/blog-placeholder-3.jpg'
